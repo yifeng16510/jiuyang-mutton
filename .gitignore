@@ -1,0 +1,11 @@
+# 环境变量文件（里面有 Token，绝对不要上传到 GitHub）
+.env
+
+# Python 运行时缓存
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+venv/
+.venv/
+env/
